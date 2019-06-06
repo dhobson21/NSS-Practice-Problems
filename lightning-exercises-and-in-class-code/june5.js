@@ -38,4 +38,5 @@ for(let i = 0; i < yoda_quote.length; i++) {
 
 }
 console.log(newQuote)
+  // AFTER LUNCH
   
