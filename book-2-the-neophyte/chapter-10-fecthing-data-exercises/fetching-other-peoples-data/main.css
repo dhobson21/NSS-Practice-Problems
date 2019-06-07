@@ -1,0 +1,14 @@
+#food-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#items {
+  border: 2px red solid;
+  margin: 10px;
+  width: 200px;
+  height: auto;
+  flex-basis: 30%
+}
