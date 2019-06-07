@@ -1,0 +1,15 @@
+#food_List {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+align-items: flex-end;
+
+}
+
+#items {
+border: rgb(116, 33, 33) 1.5px solid;
+margin: 20px;
+padding: 5px;
+
+}

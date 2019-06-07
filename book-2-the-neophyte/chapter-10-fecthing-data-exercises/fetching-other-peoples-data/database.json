@@ -1,0 +1,56 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "8001250120076"
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode": "0016229918378"
+
+
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode": "0041498227234"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "8001665127585"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "category": "vegetarian",
+      "ethnicity": "italian",
+      "barcode": "0033150001153"
+    },
+    {
+      "name": "Samyang Hot Chicken Ramen",
+      "category": "noodles",
+      "ethnicity": "Chinese",
+      "id": 6,
+      "barcode": "8801073140578"
+    },
+    {
+      "name": "Tacos",
+      "category": "sandwich?",
+      "ethnicity": "Mexican",
+      "id": 7,
+      "barcode": "8410076481368"
+    }
+    
+  ]
+}
