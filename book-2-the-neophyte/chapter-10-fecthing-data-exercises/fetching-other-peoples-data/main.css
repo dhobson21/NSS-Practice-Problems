@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 #items {
@@ -10,5 +10,5 @@
   margin: 10px;
   width: 200px;
   height: auto;
-  flex-basis: 30%
+  flex-basis: 40%
 }
